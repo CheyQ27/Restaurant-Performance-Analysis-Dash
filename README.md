@@ -154,7 +154,7 @@ Domino's Pizza,
 
 The analysis suggested a positive relationship between higher customer ratings and stronger revenue performance.
 
-Revenue Trends
+Revenue Trends:
 
 Revenue increased significantly between 2017 and 2018 before gradually declining through 2020.
 
