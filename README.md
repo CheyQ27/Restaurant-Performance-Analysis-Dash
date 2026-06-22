@@ -137,11 +137,12 @@ Chinese,
  Biryani,
  Pizza,
  Beverages,
- Baked Goods,
- Customer Ratings
+ Baked Goods
 
-Several restaurants maintained ratings above 4.0 while also supporting high order volume, including:
+ 
+ Customer Ratings:
 
+Several restaurants maintained ratings above 4.0 while also supporting high order volume, including
 Domino's Pizza,
  McDonald's,
  Burger King,
