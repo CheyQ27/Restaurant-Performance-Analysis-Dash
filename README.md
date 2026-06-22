@@ -119,22 +119,19 @@ Restaurant Name
 
 🔍 Key Findings:
 
-Restaurant Revenue Performance
+Restaurant Revenue Performance:
 
 Domino's Pizza generated the highest overall revenue.
 
 Seven of the top nine revenue-generating restaurants were major Western fast-food chains.
 
-Geographic Sales Analysis
+Geographic Sales Analysis:
 
 Tirupati, Electronic City (Bangalore), Baner (Pune), and Raipur each generated more than ₹20 million INR in revenue.
 
-Cuisine Popularity
+Cuisine Popularity:
 
-
-The most frequently ordered cuisine categories included:
-
-North Indian,
+The most frequently ordered cuisine categories included North Indian,
 Chinese,
  South Indian,
  Biryani,
