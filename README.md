@@ -207,7 +207,8 @@ Review unusually high average-order-value outliers before making strategic decis
 
 📷 Dashboard Preview
 Full Dashboard
-<img width="952" height="905" alt="Screenshot 2026-05-22 024147" src="https://github.com/user-attachments/assets/7d330645-3b32-48af-bda9-4a342f054484" />
+<img width="1026" height="736" alt="Screenshot 2026-05-22 013314" src="https://github.com/user-attachments/assets/268021c1-b488-40fb-98d5-ffd43264e6e3" />
+
 
 
 👤 Author
