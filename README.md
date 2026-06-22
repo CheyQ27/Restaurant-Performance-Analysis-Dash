@@ -14,19 +14,15 @@ Examine the relationship between ratings and revenue
 Analyze average order value patterns
 Identify revenue trends over time
 Provide actionable business recommendations
+
 🗄️ Dataset
-
 Files Used:
-
-Orders
-Restaurant
-Menu
-Food
+Orders, Restaurant, Menu, Food
 
 Description:
 The datasets contain restaurant transaction records, customer ratings, cuisine information, sales amounts, order quantities, and geographic location data used to evaluate restaurant business performance.
 
-Key Fields
+Key Fields:
 Restaurant Name
 City
 Cuisine
@@ -39,7 +35,8 @@ Microsoft Power BI
 Power Query
 DAX (Data Analysis Expressions)
 CSV Datasets
-Data Preparation
+
+Data Preparation:
 Removed rows with missing restaurant IDs
 Removed negative and zero-value sales transactions
 Removed rows with missing restaurant names or cuisine information
@@ -67,6 +64,7 @@ Year
 City
 Cuisine
 Restaurant Name
+
 🔍 Key Findings
 Restaurant Revenue Performance
 Domino's Pizza generated the highest overall revenue.
