@@ -118,6 +118,7 @@ Restaurant Name
 
 
 🔍 Key Findings:
+
 Restaurant Revenue Performance
 
 Domino's Pizza generated the highest overall revenue.
