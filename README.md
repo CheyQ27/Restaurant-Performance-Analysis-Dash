@@ -172,14 +172,14 @@ Restaurants located in larger cities outperform smaller-city restaurants.
 
 💡 Recommendations
 
-Operations
+Operations:
 
 Increase operational focus in high-performing cities.
 
 Monitor high-volume restaurants to maintain service quality.
 
 
-Marketing
+Marketing:
 
 Invest in high-performing fast-food and beverage brands.
 
@@ -188,14 +188,14 @@ Promote highly rated restaurants through targeted campaigns.
 Develop promotions around popular cuisine categories.
 
 
-Customer Experience
+Customer Experience:
 
 Encourage customer reviews and ratings.
 
 Continue prioritizing customer satisfaction initiatives.
 
 
-Business Strategy
+Business Strategy:
 
 Explore expansion opportunities in high-performing markets.
 
