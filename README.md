@@ -1,4 +1,11 @@
 # Restaurant Performance Analysis Dashboard
+
+## Interactive Dashboard
+
+View the dashboard here:
+[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/4b899daf-e22e-4d01-bf3b-087ceceb2763/71e9d3da022f0d54cc24?experience=power-bi)
+
+
 📊 Overview
 
 This project analyzes restaurant sales performance, customer ratings, cuisine popularity, and revenue trends using Microsoft Power BI. The goal was to identify high-performing restaurants, understand customer preferences, evaluate geographic sales patterns, and provide data-driven business recommendations.
